@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub]
+- Solution URL: [GitHub](https://github.com/Psargar616/calculator-FrontendMentor)
 - Calculator-app-online: [link]
 
 
