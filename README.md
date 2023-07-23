@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Psargar616/calculator-FrontendMentor)
-- Calculator-app-online: [link]
+- Solution URL:[GITHUB](https://github.com/Psargar616/calculator-FrontendMentor)
+- Calculator-app-online: (https://calculator-soln-frontend-mentor.netlify.app/)
 
 
 ### Built with
